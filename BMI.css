@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url("https://wallpapercave.com/wp/wp4241622.jpg");
+}
+.heading1{
+    margin-top: 200px;
+    font-size: 45px;
+
+}
+button{
+    padding: 10px;
+    color: white;
+    background-color: darkblue;
+}
+#print{
+    border: 1px solid black;
+}
